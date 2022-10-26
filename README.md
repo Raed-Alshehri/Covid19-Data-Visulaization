@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Covid19%20Data%20Visulaization/Dashboard.png)
+![App Screenshot](https://github.com/Raed-Alshehri/Covid19-Data-Visulaization/blob/main/Dashboard.png)
 
 
 ## 🛠 Skills Used
